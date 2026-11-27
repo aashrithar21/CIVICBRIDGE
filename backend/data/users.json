@@ -1,0 +1,102 @@
+[
+  {
+    "id": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "name": "Test Citizen",
+    "email": "citizen1@civicbridge.test",
+    "phone": "9876543210",
+    "password": "$2a$12$mCcmQ/9LG3wNKoeHJJBk.uyL.hISCj/A8xDvGQugRqmLNLiHwhzFe",
+    "role": "citizen",
+    "createdAt": "2026-11-26T16:57:39.482Z",
+    "department": null
+  },
+  {
+    "id": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420",
+    "name": "Public Works Staff",
+    "email": "staff@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "createdAt": "2026-11-26T17:15:50.996Z",
+    "department": "Public Works Department"
+  },
+  {
+    "id": "c9703128-be5b-41c2-815d-fa95a13e8fb5",
+    "name": "Civic Admin",
+    "email": "admin@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$ms/MBxczFyefQONOI8kn2OnI3xu5/UeIYZ3khBUHUTRlNdEf/yviO",
+    "role": "admin",
+    "createdAt": "2026-11-26T17:15:59.719Z",
+    "department": "City Administration"
+  },
+  {
+    "id": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "name": "Second Citizen",
+    "email": "citizen2@civicbridge.test",
+    "phone": "9876543211",
+    "password": "$2a$12$h/eGy4IBPy1JQRGRvpteiu4utlDKhZDWGS39qI1RO4PJCXEuykdyS",
+    "role": "citizen",
+    "createdAt": "2026-11-26T17:19:54.278Z",
+    "department": null
+  },
+  {
+    "id": "927e023b-80c6-4b9a-94b9-cbb89029dbe7",
+    "name": "Sanitation Staff",
+    "email": "staff.sanitation@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "department": "Sanitation Department",
+    "createdAt": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "id": "c7c425b0-2092-4ac9-a1bd-2fab31cdd490",
+    "name": "Water Supply Staff",
+    "email": "staff.water@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "department": "Water Supply Department",
+    "createdAt": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "id": "3121a189-3f05-4451-be88-9d27c39a7e7e",
+    "name": "Electrical Staff",
+    "email": "staff.electrical@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "department": "Electrical Department",
+    "createdAt": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "id": "30f75009-2abc-491b-bbeb-41ba77b09df0",
+    "name": "Drainage Staff",
+    "email": "staff.drainage@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "department": "Drainage Department",
+    "createdAt": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "id": "77b8c0d0-bb5b-4c89-bbba-e5bdac7f5b30",
+    "name": "General Administration Staff",
+    "email": "staff.general@civicbridge.test",
+    "phone": "",
+    "password": "$2a$12$fs5P6L3miH2WxH3ZyS0QWeJsoHc6JuZREZprx0tnovfE4VQp69du.",
+    "role": "staff",
+    "department": "General Administration",
+    "createdAt": "2026-11-27T06:00:00.000Z"
+  },
+  {
+    "id": "8a41a81a-9f79-4702-9850-e68eee893ba7",
+    "name": "Aashritha Royyala",
+    "email": "2403a51084@sru.edu.in",
+    "phone": "+918179034609",
+    "password": "$2a$12$8Z9Z8csc9.aFmelWVZwsOeJB6dDmp99kL6EPKAmPbcctegEa/TAiu",
+    "role": "citizen",
+    "department": null,
+    "createdAt": "2026-11-27T03:16:38.414Z"
+  }
+]

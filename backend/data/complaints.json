@@ -1,0 +1,410 @@
+[
+  {
+    "id": "6629cbd4-2286-4026-96e8-c9299b9ca7fe",
+    "complaintNumber": "CB-1795712524167",
+    "title": "Damaged road near main street",
+    "description": "The road has several large potholes causing problems for vehicles and pedestrians. (Illustrative demo photograph; not verified at this location.)",
+    "category": "Road Damage",
+    "department": "Public Works Department",
+    "address": "Hanamkonda, Warangal, Telangana",
+    "latitude": 17.9784,
+    "longitude": 79.5941,
+    "image": "/uploads/sample-road-damage.jpg",
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "citizen1@civicbridge.test",
+    "status": "Submitted",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Complaint submitted successfully",
+        "updatedAt": "2026-11-26T17:02:04.167Z"
+      }
+    ],
+    "createdAt": "2026-11-26T17:02:04.167Z",
+    "updatedAt": "2026-11-26T17:02:04.167Z"
+  },
+  {
+    "id": "b4132be0-8d11-4a1b-9293-e3e6b2c47728",
+    "complaintNumber": "CB-1795712776988",
+    "title": "Broken streetlight",
+    "description": "Streetlight is not working at night (Illustrative demo photograph; not verified at this location.)",
+    "category": "Streetlight",
+    "department": "Electrical Department",
+    "address": "Hanamkonda, Warangal, Telangana",
+    "latitude": 17.9795,
+    "longitude": 79.5954,
+    "image": "/uploads/streetlight-broken.jpg",
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "citizen1@civicbridge.test",
+    "status": "In Progress",
+    "priority": "Normal",
+    "supporters": [
+      "3f946b70-316e-4190-93dc-cb8918bb4f66"
+    ],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Complaint submitted successfully",
+        "updatedAt": "2026-11-26T17:06:16.988Z"
+      },
+      {
+        "status": "In Progress",
+        "message": "The electrical department has started working on this issue.",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420",
+        "updatedAt": "2026-11-26T17:18:49.417Z"
+      }
+    ],
+    "createdAt": "2026-11-26T17:06:16.988Z",
+    "updatedAt": "2026-11-26T17:20:08.360Z"
+  },
+  {
+    "id": "7a594db1-48e1-4d6b-a259-e7c1a71b33b1",
+    "complaintNumber": "CB-DEMO-003",
+    "title": "Overflowing garbage bins",
+    "description": "Demonstration report: overflowing garbage bins in Kazipet. Waste collected and bins cleaned.",
+    "category": "Garbage",
+    "department": "Sanitation Department",
+    "address": "Kazipet, Warangal, Telangana (demo)",
+    "latitude": 17.973,
+    "longitude": 79.505,
+    "image": "/uploads/garbage.jpg",
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "Test Citizen",
+    "status": "Resolved",
+    "priority": "High",
+    "supporters": [
+      "3f946b70-316e-4190-93dc-cb8918bb4f66"
+    ],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-25T12:00:00Z"
+      },
+      {
+        "status": "Resolved",
+        "message": "Waste collected and bins cleaned.",
+        "updatedAt": "2026-11-25T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-25T12:00:00Z",
+    "updatedAt": "2026-11-25T16:00:00Z"
+  },
+  {
+    "id": "bd7cef51-e942-4080-a5f4-d9cfbe33470f",
+    "complaintNumber": "CB-DEMO-004",
+    "title": "Leaking water pipeline",
+    "description": "Demonstration report: leaking water pipeline in Subedari. Municipal attention requested.",
+    "category": "Water Leakage",
+    "department": "Water Supply Department",
+    "address": "Subedari, Warangal, Telangana (demo)",
+    "latitude": 17.989,
+    "longitude": 79.562,
+    "image": "/uploads/water-leak.jpg",
+    "reportedBy": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "citizenName": "Second Citizen",
+    "status": "In Progress",
+    "priority": "High",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-24T12:00:00Z"
+      },
+      {
+        "status": "In Progress",
+        "message": "Repair crew is replacing the damaged pipe.",
+        "updatedAt": "2026-11-24T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-24T12:00:00Z",
+    "updatedAt": "2026-11-24T16:00:00Z"
+  },
+  {
+    "id": "0028fc59-7a2f-41b2-991f-2bcf67a4761d",
+    "complaintNumber": "CB-DEMO-005",
+    "title": "Blocked roadside drain",
+    "description": "Demonstration report: blocked roadside drain in Nakkalagutta. Municipal attention requested.",
+    "category": "Drainage",
+    "department": "Drainage Department",
+    "address": "Nakkalagutta, Warangal, Telangana (demo)",
+    "latitude": 17.992,
+    "longitude": 79.577,
+    "image": null,
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "Test Citizen",
+    "status": "Assigned",
+    "priority": "High",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-23T12:00:00Z"
+      },
+      {
+        "status": "Assigned",
+        "message": "Drainage team assigned for inspection.",
+        "updatedAt": "2026-11-23T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-23T12:00:00Z",
+    "updatedAt": "2026-11-23T16:00:00Z"
+  },
+  {
+    "id": "336c9d46-c90c-4d84-a266-0762afbe8d05",
+    "complaintNumber": "CB-DEMO-006",
+    "title": "Damaged footpath",
+    "description": "Demonstration report: damaged footpath in Balasamudram. Municipal attention requested.",
+    "category": "Road Damage",
+    "department": "Public Works Department",
+    "address": "Balasamudram, Warangal, Telangana (demo)",
+    "latitude": 17.981,
+    "longitude": 79.568,
+    "image": "/uploads/footpath.jpg",
+    "reportedBy": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "citizenName": "Second Citizen",
+    "status": "Under Review",
+    "priority": "Normal",
+    "supporters": [
+      "e96a4c8d-910a-4b66-87f7-2546d2b08963"
+    ],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-22T12:00:00Z"
+      },
+      {
+        "status": "Under Review",
+        "message": "Inspection request is under review.",
+        "updatedAt": "2026-11-22T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-22T12:00:00Z",
+    "updatedAt": "2026-11-22T16:00:00Z"
+  },
+  {
+    "id": "76fc7e4e-ecb4-4f56-b3f2-ddc54bbf7938",
+    "complaintNumber": "CB-DEMO-007",
+    "title": "Uncollected household waste",
+    "description": "Demonstration report: uncollected household waste in Waddepally. Municipal attention requested.",
+    "category": "Garbage",
+    "department": "Sanitation Department",
+    "address": "Waddepally, Warangal, Telangana (demo)",
+    "latitude": 17.986,
+    "longitude": 79.55,
+    "image": "/uploads/garbage.jpg",
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "Test Citizen",
+    "status": "Submitted",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-21T12:00:00Z"
+      }
+    ],
+    "createdAt": "2026-11-21T12:00:00Z",
+    "updatedAt": "2026-11-21T12:00:00Z"
+  },
+  {
+    "id": "dfbca344-fc2d-408e-825d-8af0eb7911bc",
+    "complaintNumber": "CB-DEMO-008",
+    "title": "Streetlight repaired",
+    "description": "Demonstration report: streetlight repaired in Hunter Road. Lamp replaced and operation checked. (Illustrative demo photograph; not verified at this location.)",
+    "category": "Streetlight",
+    "department": "Electrical Department",
+    "address": "Hunter Road, Warangal, Telangana (demo)",
+    "latitude": 17.97,
+    "longitude": 79.585,
+    "image": "/uploads/streetlight-broken.jpg",
+    "reportedBy": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "citizenName": "Second Citizen",
+    "status": "Resolved",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-20T12:00:00Z"
+      },
+      {
+        "status": "Resolved",
+        "message": "Lamp replaced and operation checked.",
+        "updatedAt": "2026-11-20T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-20T12:00:00Z",
+    "updatedAt": "2026-11-20T16:00:00Z"
+  },
+  {
+    "id": "49866ef9-ee97-4b17-b2c7-baf571e55107",
+    "complaintNumber": "CB-DEMO-009",
+    "title": "Water pooling near junction",
+    "description": "Demonstration report: water pooling near junction in Deshaipet. Municipal attention requested.",
+    "category": "Drainage",
+    "department": "Drainage Department",
+    "address": "Deshaipet, Warangal, Telangana (demo)",
+    "latitude": 17.982,
+    "longitude": 79.628,
+    "image": null,
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "Test Citizen",
+    "status": "In Progress",
+    "priority": "High",
+    "supporters": [
+      "3f946b70-316e-4190-93dc-cb8918bb4f66"
+    ],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-19T12:00:00Z"
+      },
+      {
+        "status": "In Progress",
+        "message": "Drain clearing is underway.",
+        "updatedAt": "2026-11-19T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-19T12:00:00Z",
+    "updatedAt": "2026-11-19T16:00:00Z"
+  },
+  {
+    "id": "d9f497a7-58a8-4204-89df-20eb9f785405",
+    "complaintNumber": "CB-DEMO-010",
+    "title": "Damaged public bench",
+    "description": "Demonstration report: damaged public bench in Public Gardens. Municipal attention requested.",
+    "category": "Other",
+    "department": "General Administration",
+    "address": "Public Gardens, Warangal, Telangana (demo)",
+    "latitude": 17.995,
+    "longitude": 79.57,
+    "image": "/uploads/bench.jpg",
+    "reportedBy": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "citizenName": "Second Citizen",
+    "status": "Assigned",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-18T12:00:00Z"
+      },
+      {
+        "status": "Assigned",
+        "message": "Maintenance team assigned.",
+        "updatedAt": "2026-11-18T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-18T12:00:00Z",
+    "updatedAt": "2026-11-18T16:00:00Z"
+  },
+  {
+    "id": "04694b74-f196-4669-ab2a-d007a0652048",
+    "complaintNumber": "CB-DEMO-011",
+    "title": "Potholes near bus stop",
+    "description": "Demonstration report: potholes near bus stop in Warangal. Potholes filled and road reopened. (Illustrative demo photograph; not verified at this location.)",
+    "category": "Road Damage",
+    "department": "Public Works Department",
+    "address": "Warangal, Warangal, Telangana (demo)",
+    "latitude": 17.96,
+    "longitude": 79.601,
+    "image": "/uploads/sample-road-damage.jpg",
+    "reportedBy": "e96a4c8d-910a-4b66-87f7-2546d2b08963",
+    "citizenName": "Test Citizen",
+    "status": "Resolved",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-17T12:00:00Z"
+      },
+      {
+        "status": "Resolved",
+        "message": "Potholes filled and road reopened.",
+        "updatedAt": "2026-11-17T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-17T12:00:00Z",
+    "updatedAt": "2026-11-17T16:00:00Z"
+  },
+  {
+    "id": "0dd2c83e-870d-4610-958f-1d4e9da58e11",
+    "complaintNumber": "CB-DEMO-012",
+    "title": "Water supply leak near lane",
+    "description": "Demonstration report: water supply leak near lane in Kothawada. Municipal attention requested.",
+    "category": "Water Leakage",
+    "department": "Water Supply Department",
+    "address": "Kothawada, Warangal, Telangana (demo)",
+    "latitude": 17.984,
+    "longitude": 79.615,
+    "image": "/uploads/water-leak.jpg",
+    "reportedBy": "3f946b70-316e-4190-93dc-cb8918bb4f66",
+    "citizenName": "Second Citizen",
+    "status": "Under Review",
+    "priority": "Normal",
+    "supporters": [
+      "e96a4c8d-910a-4b66-87f7-2546d2b08963"
+    ],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Demo complaint submitted.",
+        "updatedAt": "2026-11-16T12:00:00Z"
+      },
+      {
+        "status": "Under Review",
+        "message": "Water supply team reviewing report.",
+        "updatedAt": "2026-11-16T16:00:00Z",
+        "updatedBy": "4ba5d038-ed3a-4dba-9193-e4a8ef67d420"
+      }
+    ],
+    "createdAt": "2026-11-16T12:00:00Z",
+    "updatedAt": "2026-11-16T16:00:00Z"
+  },
+  {
+    "id": "9809343b-c427-486a-a4b4-1541f234678c",
+    "complaintNumber": "CB-1795749543119",
+    "title": "damaged road",
+    "description": "the road is damaged after the flood yesterday.",
+    "category": "Road Damage",
+    "department": "Public Works Department",
+    "address": "Hanamkonda",
+    "latitude": 18.012029124126233,
+    "longitude": 79.53308464401479,
+    "image": "/uploads/b9ffbeba-99ea-4121-a03c-b3c639eefedb.jpg",
+    "reportedBy": "8a41a81a-9f79-4702-9850-e68eee893ba7",
+    "citizenName": "Aashritha Royyala",
+    "status": "Submitted",
+    "priority": "Normal",
+    "supporters": [],
+    "updates": [
+      {
+        "status": "Submitted",
+        "message": "Complaint submitted successfully",
+        "updatedAt": "2026-11-27T03:19:03.119Z"
+      }
+    ],
+    "createdAt": "2026-11-27T03:19:03.119Z",
+    "updatedAt": "2026-11-27T03:19:03.119Z"
+  }
+]
